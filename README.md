@@ -105,6 +105,8 @@ For purposes of this Part only, the following definitions shall apply:
 
 2. merchants and consumers that utilize Virtual Currency solely for the purchase or sale of goods or services.
 
+3. Persons that delivers wages or salaries on behalf of employers to employees or facilitates the payment of payroll taxes to state and federal agencies, makes payments relating to employee benefit plans, makes distribution of other authorized deductions from employees' wages or salaries, or transmits other funds on behalf of an employer in connection with transactions related to employees. 
+
 *Statutory Authority: Financial Services Law, sections 102, 201, 301, and 302*
 
 <a name="application"/>
